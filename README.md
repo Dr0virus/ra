@@ -1,7 +1,7 @@
 # [Radioactive tg](https://telegram.me/Radioactive_tg)
 
 
-**An advanced and powerful administration bot based on Teleseed.**
+**An advanced and powerful administration bot based on Plugins.**
 # Features
 
 * **A powerful antispam system with custom sensitivity for each group**

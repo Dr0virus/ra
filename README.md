@@ -24,7 +24,7 @@
 * * *
 
 ## Commands
-TeleSeed has several commands that are only usable at certain ranks.
+Radioactive has several commands that are only usable at certain ranks.
 
 
 ## General Commands {#general_commands}

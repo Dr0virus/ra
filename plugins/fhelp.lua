@@ -21,7 +21,14 @@ Text to sound
 !sticker (text)
 Text to sticker
 
+write (text)
+Write beautifully
+
+!say (text)
+Echo (text)
+
 Radioacative V.3
+⚠↯π_π↯⚠™
 ]]
 end
 end

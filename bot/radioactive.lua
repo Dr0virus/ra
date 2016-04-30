@@ -234,31 +234,22 @@ function create_config( )
     },
     sudo_users = {184018132},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[Radioactive tg⚠↯π_π↯⚠™ an advanced administrator bot based on teleseed & plugins 
 
-https://github.com/SEEDTEAM/TeleSeed
+👇Source👇
 
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+https://github.com/dr0virus/ra
+
+Sudo👑
+@Electrovirus
 
 Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
+Maderman
+The maleficent
 
-Our channels
-@teleseedch [English]
-@iranseed [persian]
-
-Our website 
-http://teleseed.seedteam.org/
-]],
+Our channel
+@Ev_official
+⚠↯π_π↯⚠™]],
     help_text_realm = [[
 Realm Commands:
 

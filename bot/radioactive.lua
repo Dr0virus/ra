@@ -229,27 +229,20 @@ function create_config( )
     sudo_users = {184018132},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[Radioactive bot⚠↯π_π↯⚠™ an advanced bot based on Teleseed & plugins
+Open source🔰
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/dr0virus/ra
 
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+Sudo!
+@Electrovirus
 
 Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
+Maderman
+The maleficent
 
-Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+Our channel:
+@Ev_official
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -324,15 +317,15 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-Commands list :
+Commands for radioactive :
 
-!kick [username|id]
+!kick ✘username|id✘
 You can also do it by reply
 
-!ban [ username|id]
+!ban ✘username|id✘
 You can also do it by reply
 
-!unban [id]
+!unban ✘id✘
 You can also do it by reply
 
 !who
@@ -341,10 +334,10 @@ Members list
 !modlist
 Moderators list
 
-!promote [username]
+!promote ✘username✘
 Promote someone
 
-!demote [username]
+!demote ✘username✘
 Demote someone
 
 !kickme
@@ -356,7 +349,7 @@ Group description
 !setphoto
 Set and locks group photo
 
-!setname [name]
+!setname ✘name✘
 Set group name
 
 !rules
@@ -368,17 +361,17 @@ Return group id or user id
 !help
 Get commands list
 
-!lock [member|name|bots|leave] 
-Locks [member|name|bots|leaveing] 
+!lock ✘member|name|bots|leave✘ 
+Locks ✘member|name|bots|leaveing✘ 
 
-!unlock [member|name|bots|leave]
-Unlocks [member|name|bots|leaving]
+!unlock ✘member|name|bots|leave✘
+Unlocks ✘member|name|bots|leaving✘
 
-!set rules [text]
-Set [text] as rules
+!set rules ✘text✘
+Set ✘text✘ as rules
 
-!set about [text]
-Set [text] as about
+!set about ✘text✘
+Set ✘text✘ as about
 
 !settings
 Returns group settings
@@ -401,16 +394,16 @@ Set [value] as flood sensitivity
 !stats
 Simple message statistics
 
-!save [value] [text]
-Save [text] as [value]
+!save ✘value✘ ✘text✘
+Save ✘text✘ as ✘value✘
 
-!get [value]
-Returns text of [value]
+!get ✘value✘
+Returns text of ✘value✘
 
-!clean [modlist|rules|about]
-Will clear [modlist|rules|about] and set it to nil
+!clean ✘modlist|rules|about✘
+Will clear ✘modlist|rules|about✘ and set it to nil
 
-!res [username]
+!res ✘username✘
 Returns user id
 
 !log
@@ -419,13 +412,18 @@ Will return group logs
 !banlist
 Will return group ban list
 
-» U can use both "/" and "!" 
+!fhelp
+To see fun commands
+
+» U can use "#"-"/"-"!" 
 
 » Only mods, owner and admin can add bots in group
 
 » Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 » Only owner can use res,setowner,promote,demote and log commands
+
+Radioactive V.3⚠↯π_π↯⚠™
 
 ]]
   }
